@@ -2,6 +2,7 @@
 import url_manager,html_downloader,html_parser,html_outputer
 import ssl
 import urllib.parse
+# 建议先看视频熟悉各模块的功能，自行百度之后在看本代码
 class SpiderMain(object):
     # 初始化各对象
     def __init__(self):
